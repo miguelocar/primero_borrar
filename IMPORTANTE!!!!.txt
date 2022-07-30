@@ -1,0 +1,16 @@
+Este activador funciona con TODOS los windows 7 sin excepcion, ya sean ultimate, 
+professional o home basic. Sirve tanto para 32 bits como para 64 bits
+
+-Tan solo debeis ejecutarlo como administrador(clik derecho sobre el y ejecutar 
+como administrador) y darle a Aply. Esperais como maximo 2 minutos y el pc se reiniciará. 
+Cuando se inicie el windosw 7 estará activado. Si quereis comprobarlo, solo debeis ir 
+a inicio y hacer clik derecho sobre Equipo. Se os abrira una ventana, debeis bajar y al 
+final del todo deberiais ver una frase que diga: Windows Esta activado.
+
+EL archivo ha sido analizado con el nod 32 antivirus 4 y no ha detectado nada.
+
+Disfrutadlo
+
+Inad92
+
+
